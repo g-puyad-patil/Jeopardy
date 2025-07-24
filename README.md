@@ -1,4 +1,2 @@
 # Jeopardy
-### Author
-### Ganraj
-# Exercise
+# Today
